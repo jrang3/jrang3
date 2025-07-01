@@ -1,3 +1,5 @@
+<img src="profile.jpg" alt="Praneeth Rangamudri" width="200" />
+
 # Hi there 👋 I'm Praneeth Rangamudri
 
 🎓 Master's student in Computer Science at UIUC  
