@@ -1,14 +1,9 @@
 <img src="profile.jpeg" alt="Praneeth Rangamudri" width="150" style="border-radius: 50%;" />
 
+# Hi there 👋 
 
-# Hi there 👋 I'm Praneeth Rangamudri
-
-🎓 Master's student in Computer Science at UIUC  
-💡 Passionate about building interactive systems, immersive simulations, and data-driven tools  
-
-## 🚀 Projects
-- **Smart Email Reply** – AI-powered Gmail add-on using Gemini API  
-- **VR Archaeology Simulation** – Unreal Engine project for immersive learning  
-- **AI Visualizer** – 3D visualization of stress predictions using Three.js  
+I'm Praneeth — a Master's student in Computer Science at UIUC — passionate about building interactive systems across visualization, simulation, and AI. My work spans VR learning tools using Unreal Engine 5 and Unity, 3D web interfaces with Three.js, and AI-powered assistants.
 
 📫 [Visit my portfolio](https://jrang3.github.io)
+
+💬 Feel free to reach out: pranmudri@gmail.com
