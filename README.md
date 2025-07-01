@@ -1,4 +1,5 @@
-<img src="profile.jpg" alt="Praneeth Rangamudri" width="200" />
+<img src="profile.jpeg" alt="Praneeth Rangamudri" width="150" style="border-radius: 50%;" />
+
 
 # Hi there 👋 I'm Praneeth Rangamudri
 
